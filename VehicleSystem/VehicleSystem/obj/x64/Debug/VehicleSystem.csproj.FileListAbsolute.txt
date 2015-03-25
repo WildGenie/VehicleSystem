@@ -105,3 +105,6 @@ C:\Users\s212227122\Desktop\VehicleSystem\VehicleSystem\VehicleSystem\bin\x64\De
 C:\Users\s212227122\Desktop\VehicleSystem\VehicleSystem\VehicleSystem\bin\x64\Debug\IKVM.Runtime.JNI.dll
 C:\Users\s212227122\Desktop\VehicleSystem\VehicleSystem\VehicleSystem\bin\x64\Debug\VehicleSystemServer.dll
 C:\Users\s212227122\Desktop\VehicleSystem\VehicleSystem\VehicleSystem\obj\x64\Debug\VehicleSystem.csprojResolveAssemblyReference.cache
+C:\HonoursDev\VehicleSystem\VehicleSystem\VehicleSystem\bin\x64\Debug\VehicleSystem.exe.config
+C:\HonoursDev\VehicleSystem\VehicleSystem\VehicleSystem\obj\x64\Debug\VehicleSystem.exe
+C:\HonoursDev\VehicleSystem\VehicleSystem\VehicleSystem\obj\x64\Debug\VehicleSystem.pdb
